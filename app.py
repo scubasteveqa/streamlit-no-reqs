@@ -1,7 +1,7 @@
 from streamlit_player import st_player
 
 # Embed a youtube video Rick Roll
-st_player("https://www.youtube.com/watch?v=eBGIQ7ZuuiU", playing=True, muted=True)    
+st_player("https://www.youtube.com/watch?v=eBGIQ7ZuuiU", playing=True, muted=False)    
 
 # Embed a youtube video - Alan Walker
 #st_player("https://www.youtube.com/watch?v=wJnBTPUQS5A")
